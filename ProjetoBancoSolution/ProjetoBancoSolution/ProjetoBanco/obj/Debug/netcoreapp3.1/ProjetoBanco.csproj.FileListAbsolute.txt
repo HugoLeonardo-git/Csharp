@@ -1,0 +1,14 @@
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.exe
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.deps.json
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.json
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.runtimeconfig.dev.json
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\bin\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csproj.AssemblyReference.cache
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfoInputs.cache
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.AssemblyInfo.cs
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.csproj.CoreCompileInputs.cache
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.dll
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.pdb
+C:\Users\2880972113014\Documents\OneDrive - Fatec Centro Paula Souza\Documents\Workspace\ProjetoBancoSolution\ProjetoBanco\obj\Debug\netcoreapp3.1\ProjetoBanco.genruntimeconfig.cache
